@@ -7,6 +7,8 @@ public class PalindromeCheck {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//Added Comments
+		//Added Second Commit
+		//Added 3rd comment
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter a Number:");
 		int orig_num = sc.nextInt();
