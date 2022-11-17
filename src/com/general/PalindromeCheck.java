@@ -6,6 +6,7 @@ public class PalindromeCheck {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
 		//Added Comments
 		//Added Second Commit
 		//Added 3rd comment
