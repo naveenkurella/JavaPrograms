@@ -15,6 +15,7 @@ public class PalindromeCheck {
 		int orig_num = sc.nextInt();
 		int num=orig_num;
 		int rev=0;
+		//Adding cherry pick line
 		while(num!=0) {
 			
 			rev=rev*10+num%10;
