@@ -11,6 +11,7 @@ public class longestSubstringWithoutDuolicates {
 	        String longestSubstring = findLongestSubstring(str);
 	        System.out.println(findLongestSubstring("developers_write_unit_tests"));
 	        System.out.println("The longest substring without duplicates is: " + longestSubstring);
+	        //Adding Comments
 	    }
 	    
 	    public static String findLongestSubstring(String str) {
