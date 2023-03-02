@@ -13,6 +13,7 @@ public class ReverseString {
 		
 			rev=rev+(str.charAt(i-1));
 			i--;
+			//Adding comments from first branch
 		}
 		
 		System.out.println(rev);
