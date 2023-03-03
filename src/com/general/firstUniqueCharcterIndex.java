@@ -5,13 +5,13 @@ public class firstUniqueCharcterIndex {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-		int k=firstUniqueCharIndex("loveleetcode");
+		firstUniqueCharcterIndex f=new firstUniqueCharcterIndex();
+		int k=f.firstUniqueCharIndex("loveleetcode");
 		System.out.println(k);
 	}
 
 
-	static int firstUniqueCharIndex(String s) {
+	 int firstUniqueCharIndex(String s) {
 		
 		HashMap<Character,Integer> map = new HashMap<Character,Integer>();
 		
