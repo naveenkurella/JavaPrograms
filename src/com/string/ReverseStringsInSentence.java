@@ -20,10 +20,14 @@ public class ReverseStringsInSentence {
 
 			}
 
-			counter++;
-			if (counter < length) {
-				str2 += " ";
-			}
+			str2 += " "; 
+			/*
+			 * counter++; 
+			 * if (counter < length) { 
+			 * str2 += " "; 
+			 * }
+			 * 
+			 */
 		}
 
 		System.out.print(str2);
