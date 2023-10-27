@@ -17,6 +17,7 @@ int firstUniqueCharIndex(String s) {
 		for(int j=0;j<n;j++) {
 			if(map.get(s.charAt(j))==1)
 				return j;
+			
 		}
 		
 		return -1;

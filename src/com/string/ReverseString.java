@@ -1,4 +1,4 @@
-package com.string;
+	package com.string;
 
 public class ReverseString {
 
@@ -13,6 +13,8 @@ public class ReverseString {
 		
 			rev=rev+(str.charAt(i-1));
 			i--;
+			//Adding comments from first branch
+			//Adding first branch comments2
 		}
 		
 		System.out.println(rev);
@@ -36,6 +38,8 @@ public class ReverseString {
 		StringBuffer sb=new StringBuffer(str3);
 		
 		System.out.println(sb.reverse());
+		//Adding comments in Leet Code Branch
+		//Adding Comment in Leet Code Branch
 	}
 
 }
